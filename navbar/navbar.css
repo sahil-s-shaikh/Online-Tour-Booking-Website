@@ -1,0 +1,44 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+nav{
+    height: 70px;
+    /* border: solid; */
+    width: 100%;
+      box-shadow: 0 2px 4px rgba(11, 10, 10, 0.05);
+    background-color:transparent;
+    
+}
+ul{
+    list-style: none;
+    
+    
+}
+nav button{
+    border: none;
+    background-color: transparent;
+    align-items: center;
+     margin-top: 10px;
+     color:chocolate;
+     text-shadow: black;
+    
+}
+aside {
+    margin-top: 10px;
+}
+section .Sign-Up{
+     margin-top: 10px;
+     white-space: nowrap;
+}
+section .Log-In{
+     margin-top: 10px;
+}
+section .BH{
+    margin-top: 10px;
+    
+}
+section .Notification{
+    margin-top: 10px;
+}

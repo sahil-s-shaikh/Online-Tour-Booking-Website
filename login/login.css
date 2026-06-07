@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    
+    background-image: url('https://images.ctfassets.net/nnkxuzam4k38/4BIP4ge9ontCTkNubiY4lb/48121f9d09134fd83670b1d6e182aa66/white-particles-background.png');
+    background-repeat: no-repeat;
+background-size: cover;
+}
+.container{
+    padding-top: 100px;
+ 
+
+}
+
+form{
+    border:  2px solid;
+    border-radius: 20px;
+    
+background-repeat: no-repeat;
+background-size: cover;
+
+padding-top: 10px;
+
+}
+form label{
+    display: block;
+    font-size: 20px;
+    font-weight: 400;
+    color:brown;
+}
+form input{
+    width: 80%;
+    border-radius: 20px;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+form button{
+    width: 60%;
+    padding: 8px;
+    border-radius: 20px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    background-color:aqua;
+}

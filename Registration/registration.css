@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+nav{
+    height: 70px;
+    
+    width: 100%;
+      box-shadow: 0 2px 4px rgba(11, 10, 10, 0.05);
+    background-color:white;
+    position: sticky
+    
+}
+form{
+    /* border:  2px solid; */
+    border-radius: 20px;
+    background-image: url('https://img.freepik.com/premium-vector/modern-minimal-elegant-white-background-with-shiny-lines_249611-5877.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+}
+form label{
+    display: block;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+form input{
+    width: 80%;
+    border-radius: 20px;
+    padding: 5px;
+    margin-top: 10px;
+}
+form input[type="radio"]{
+    width: 30px;
+}
+form textarea{
+    width: 80%;
+    border-radius: 10px;
+}
+
+form button{
+    width: 60%;
+    padding: 8px;
+    border-radius: 20px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
