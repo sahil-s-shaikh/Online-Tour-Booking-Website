@@ -30,7 +30,7 @@ form.addEventListener("submit", async (e) => {
     if (singleUser.role === "admin") {
       window.location.href = "../addPlaces/addplaces.html";
     } else {
-      window.location.href = "../Home_Page/homepage.html";
+      window.location.href = "../Home_Page/index.html";
     }
 
   } catch (error) {
