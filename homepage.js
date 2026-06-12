@@ -32,4 +32,4 @@ let displayPlaces = async () => {
     });
 };
 
-displayPlaces();
+// displayPlaces();
