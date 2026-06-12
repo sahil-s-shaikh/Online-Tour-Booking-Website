@@ -21,7 +21,7 @@ let profileBlock = document.querySelector("#profile");
 
 // Navigation data
 let navigationData = [
-    { label: "Home", Path: "../Home_Page/index.html" },
+    { label: "Home", Path: "/index.html" },
     { label: "About Us", Path: "../About Us/aboutus.html" },
     { label: "Contact Us", Path: "../contactus/contactus.html" },
     { label: "Booking", Path: "../booking/booking.html" },
