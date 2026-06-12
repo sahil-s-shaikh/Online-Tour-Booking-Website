@@ -21,19 +21,19 @@ let profileBlock = document.querySelector("#profile");
 
 // Navigation data
 let navigationData = [
-    { label: "Home", Path: "/index.html" },
-    { label: "About Us", Path: "./About Us/aboutus.html" },
-    { label: "Contact Us", Path: "./contactus/contactus.html" },
-    { label: "Booking", Path: "./booking/booking.html" },
-    { label: "Add Places", Path: "./addPlaces/addplaces.html" }
+   { label: "Home", Path: "/Online-Tour-Booking-Website/index.html" },
+{ label: "About Us", Path: "/Online-Tour-Booking-Website/About%20Us/aboutus.html" },
+{ label: "Contact Us", Path: "/Online-Tour-Booking-Website/contactus/contactus.html" },
+{ label: "Booking", Path: "/Online-Tour-Booking-Website/booking/booking.html" },
+{ label: "Add Places", Path: "/Online-Tour-Booking-Website/addPlaces/addplaces.html" }
 ];
 
 // Profile data
 let profileData = [
-    { label: "BH", Path: "./browserHistory/history.html" },
-    { label: "Notification", Path: "./notification/notification.html" },
-    { label: "Sign-Up", Path: "./Registration/registration.html" },
-    { label: "Log-In", Path: "./login/login.html" },
+    { label: "BH", Path: "/Online-Tour-Booking-Website/browserHistory/history.html" },
+    { label: "Notification", Path: "/Online-Tour-Booking-Website/notification/notification.html" },
+    { label: "Sign-Up", Path: "/Online-Tour-Booking-Website/Registration/registration.html" },
+    { label: "Log-In", Path: "/Online-Tour-Booking-Website/login/login.html" },
     { label: "Log Out" }
 ];
 
