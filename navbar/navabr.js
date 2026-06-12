@@ -22,18 +22,18 @@ let profileBlock = document.querySelector("#profile");
 // Navigation data
 let navigationData = [
     { label: "Home", Path: "/index.html" },
-    { label: "About Us", Path: "../About Us/aboutus.html" },
-    { label: "Contact Us", Path: "../contactus/contactus.html" },
-    { label: "Booking", Path: "../booking/booking.html" },
-    { label: "Add Places", Path: "../addPlaces/addplaces.html" }
+    { label: "About Us", Path: "./About Us/aboutus.html" },
+    { label: "Contact Us", Path: "./contactus/contactus.html" },
+    { label: "Booking", Path: "./booking/booking.html" },
+    { label: "Add Places", Path: "./addPlaces/addplaces.html" }
 ];
 
 // Profile data
 let profileData = [
-    { label: "BH", Path: "../browserHistory/history.html" },
-    { label: "Notification", Path: "../notification/notification.html" },
-    { label: "Sign-Up", Path: "../Registration/registration.html" },
-    { label: "Log-In", Path: "../login/login.html" },
+    { label: "BH", Path: "./browserHistory/history.html" },
+    { label: "Notification", Path: "./notification/notification.html" },
+    { label: "Sign-Up", Path: "./Registration/registration.html" },
+    { label: "Log-In", Path: "./login/login.html" },
     { label: "Log Out" }
 ];
 
